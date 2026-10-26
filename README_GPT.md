@@ -8,6 +8,9 @@
 
 # Hey there, I'm Sufyan 👋
 
+<img src="img_profile.png" alt="Profile Image" style="width: 300px; height: 300px; border-radius: 90%;">
+
+
 ### Full-Stack Developer in Progress · Exploring AI & Data Science
 
 I enjoy building useful web applications, solving problems, and learning how technology can make everyday work easier.
